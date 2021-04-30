@@ -1,8 +1,11 @@
-Agregar/configurar tarjetas para la red interna en VirtualBox.
-Una para controlador de dominio y otra por cada cada máquina objetivo, unidas a la misma red, por supuesto.
-Asignar IPs fijas y poner como Dominio preferido la IP del controlador de dominio. 
+AGREGAR MÁQUINA A UN CONTROLADOR DE DOMINIO
 
-En el Windows 10 a agregar:
+1.Agregar/configurar tarjetas para la red interna en VirtualBox.
+Una para controlador de dominio y otra por cada cada máquina objetivo.
+
+2.Asignar IPs fijas y poner como Dominio preferido la IP del controlador de dominio.
+
+3.En el Windows 10 a agregar:
   WINDOWS+pausa
     Configuración avanzada
       Nombre del equipo
@@ -10,6 +13,16 @@ En el Windows 10 a agregar:
           Clicar en Dominio
              Agregar el nombre del dominio
               Aceptar
-              
+
+4.Reiniciar
+
+
+
+
+
+
+
+
+
 
 
