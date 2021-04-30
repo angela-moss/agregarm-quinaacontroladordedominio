@@ -1,5 +1,6 @@
-Agregar una tarjeta para montar la red para las máquinas agregadas. Una en el controlador y otra en cada máquina objetivo
-Asignar IPs fijas, poner como Dominio preferido la IP del controlador de dominio. 
+Agregar/configurar tarjetas para la red interna en VirtualBox.
+Una para controlador de dominio y otra por cada cada máquina objetivo, unidas a la misma red, por supuesto.
+Asignar IPs fijas y poner como Dominio preferido la IP del controlador de dominio. 
 
 En el Windows 10 a agregar:
   WINDOWS+pausa
@@ -11,5 +12,4 @@ En el Windows 10 a agregar:
               Aceptar
               
 
-Mirar esta fuente para configurar la tarjeta de red. 
-https://www.youtube.com/watch?v=pK5ZAXfZtCM
+
