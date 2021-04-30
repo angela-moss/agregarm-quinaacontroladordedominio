@@ -1,3 +1,6 @@
+Agregar una tarjeta para montar la red para las máquinas agregadas. Una en el controlador y otra en cada máquina objetivo
+Asignar IPs fijas, poner como Dominio preferido la IP del controlador de dominio. 
+
 En el Windows 10 a agregar:
   WINDOWS+pausa
     Configuración avanzada
