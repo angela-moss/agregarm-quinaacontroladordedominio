@@ -1,7 +1,7 @@
 AGREGAR MÁQUINA A UN CONTROLADOR DE DOMINIO
 
 1.Agregar/configurar tarjetas para la red interna en VirtualBox.
-Una para controlador de dominio y otra por cada cada máquina objetivo.
+Una para el controlador de dominio y otra por cada cada máquina objetivo.
 
 2.Asignar IPs fijas y poner como Dominio preferido la IP del controlador de dominio.
 
